@@ -11,11 +11,19 @@ A simple program game which uses random function to generate numbers and evaluat
 
 Features:
 
-&#x09;
 
-&#x09;Random Number Generation
 
-&#x09;User Input Validation
+Random Number Generation
+
+User Input Validation
+
+Hint System
+
+Attempts Counter
+
+Diffuculty Levels
+
+Replay System
 
 
 
@@ -53,7 +61,7 @@ Number-Guessing-Game/
 
 \--------------------
 
-
+HOW TO RUN
 
 1\. Clone the repository
 
@@ -99,29 +107,15 @@ python main.py
 
 
 
-Future Improvements:
-
-&#x09;
-
-&#x09;1. Play again feature
-
-&#x09;2. A Hint Section
-
-&#x09;3. An Attempt Counter
-
-&#x09;4. Difficulty Levels
-
-\-------------------
-
-
-
 What I Learned:
 
-&#x09;Conditional Statements
+Conditional Statements
 
-&#x09;random library and its function
+random library and its function
 
+Functions
 
+Boolean Logic
 
 \-------------------
 
@@ -129,5 +123,5 @@ What I Learned:
 
 Author:
 
-&#x09;Sripranav a.k.a TheRenderCut
+&#x09;Sripranav N a.k.a TheRenderCut
 
